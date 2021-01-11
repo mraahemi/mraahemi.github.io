@@ -1,6 +1,6 @@
 
 ---
-title: COVID eect on housing prices
+title: COVID effect on housing prices
 layout: page
 ---
 
