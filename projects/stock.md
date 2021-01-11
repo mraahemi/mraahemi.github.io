@@ -1,5 +1,5 @@
 ---
-title: Grape Disease Detection
+title: Intelligent Prediction of Stock Market Using Text and Data Mining Techniques
 layout: page
 ---
 
